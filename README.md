@@ -10,5 +10,3 @@
    - spam
    - ham
 - 747 records are spam and 4825 are ham
-
-### In the end I have checked the model using few random examples.
